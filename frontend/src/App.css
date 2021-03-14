@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  margin-left: 250px;
+  margin-right: 250px;
+  
+}
+.heading{
+  color: black;
+  background-color: mediumblue;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.sub_butn{
+  display:none;
+}
+.nav, header_part{
+  color: black;
+  margin-bottom: 10px;
+  border: .0px solid white;
+}
+.pur_btn{
+  padding: 3px;
+  margin: 3px;
+}
+.del_btn{
+  padding: 3px;
+  margin: 3px;
+}
+.form_data{
+  margin-left: 230px;
+  margin-right: 230px;
+  background-color: white;
+  color: black;
+}
